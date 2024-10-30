@@ -15,6 +15,10 @@ Options:
   --type            Specify type to filter, e.g., --type log,ide,office,app,code,backup,hidden,database,source,creds,pass,conf
 
 
+Example:
+
+cat urls.txt | laran --type log
+
 
   Potentially exposed file extensions:
 
